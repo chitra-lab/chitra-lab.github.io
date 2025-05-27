@@ -1,4 +1,4 @@
-# pimentellab.github.io
+# chitra-lab.github.io
 ====================
 
 Technologies this website uses:  
