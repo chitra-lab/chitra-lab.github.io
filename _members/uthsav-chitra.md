@@ -14,4 +14,4 @@ where I was fortunate to be advised by [Ben Raphael](https://www.cs.princeton.ed
 
 My research focuses on developing computational methods for addressing fundamental problems in biology. I am particularly excited about developing spatiotemporal and graph-based ML algorithms for new biological technologies.
 
-[CV](/static/cv/cv.pdf) 
+[Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), [CV](/static/cv/cv_website.pdf) 
