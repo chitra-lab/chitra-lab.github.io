@@ -1,26 +1,21 @@
-<h2>Contact Us</h2>
-<p>
-Harold Pimentel, Ph.D. <br>
-Assistant Professor <br>
-Department of Computational Medicine <br>
-Department of Human Genetics <br>
-David Geffen School of Medicine at UCLA <br>
-<br>
-email: hjp (at) ucla.edu <br>
-<br>
-Life Science Building <br>
-621 Charles E Young Dr S <br> 
-Los Angeles, CA 90024 <br>
-</p>
+<div class="contact-sidebar">
+    <h3> Contact Information </h3>
+    <p>
+      Uthsav Chitra <br>
+      Assistant Professor <br>
+      Department of Computer Science <br>
+      Johns Hopkins University <br>
+      <br>
+      Email: uthsav (at) jhu.edu <br>
+      Address: 3400 N Charles St, Baltimore, MD 21218 <br>
+      Office: TBD <br>
+      Phone: TBD <br>
+    </p>
 
-<p>
- <h3> Interested in joining the Pimentel lab? </h3>
- We are currently looking for kind, curious, and ambitious researchers. <b> Open positions are listed on our <a href="{{ site.url }}/join">Join</a> page.</b><br>
-</p>
-
-<h3> Recent Posts </h3>
-<ul>
-  {% for post in site.posts limit: 5 %}
-    <li><a href="{{ post.url }}"><b>{{ post.title }}</b></a></li>
-  {% endfor %}
-</ul>
+    <h3> Recent News </h3>
+    <ul class="list-unstyled">
+    {% for post in site.posts limit:5 %}
+        <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+</div>

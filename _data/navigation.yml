@@ -1,20 +1,20 @@
-- name: home
-  link: "/"
+- name: Home
+  link: /
   group: home
 
-- name: research
+- name: Research
   link: "/research"
   group: research
 
-- name: publications
-  link: "/publications"
+- name: Publications
+  link: /publications
   group: publications
 
 # - name: reviews
 #   link: "/reviews"
 #   group: reviews
 
-- name: members
+- name: Members
   link: "/members"
   group: members
 
@@ -22,14 +22,14 @@
 #   link: "/courses"
 #   group: courses
 
-- name: news
-  link: "/news"
+- name: News
+  link: /news
   group: news
 
-- name: join
-  link: "/join"
+- name: Join
+  link: /join
   group: join
 
-- name: contact
-  link: "/contact"
-  group: contact
+# - name: contact
+#   link: "/contact"
+#   group: contact

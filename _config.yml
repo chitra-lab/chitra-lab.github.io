@@ -1,7 +1,7 @@
-name: "Pimentel Lab"
-description: "This is the official web page for the Harold Pimentel at UCLA."
+name: "Chitra Lab at Johns Hopkins University"
+description: "This is the official web page for the Chitra Lab at Johns Hopkins University."
 
-url: "http://pimentellab.com"
+url: "http://chitra-lab.github.io"
 
 paginate: 5
 plugins: [jekyll-paginate]
@@ -28,7 +28,8 @@ collections:
         affiliates:
                 output: true
         members:
-                output: true
+                output: false
+                permalink: /members/:name/
         publications:
                 output: true
         reviews:

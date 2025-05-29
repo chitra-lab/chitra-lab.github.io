@@ -1,0 +1,131 @@
+- title: "Spatial metabolic gradients in the liver and small intestine"
+  authors_array: ["Laith Samarah", "Clover Zheng", "Uthsav Chitra", "...", "Benjamin J. Raphael", "Joshua Rabinowitz"]
+  year: 2024
+  type: "preprint"
+  journal: "In review"
+
+- title: "Decoding the causal drivers of spatial cellular topology"
+  authors_array: ["Prannav Shankar", "Huan Liang", "Uthsav Chitra†", "Rohit Singh†"]
+  underline_authors: ["Prannav Shankar", "Uthsav Chitra†"]
+  year: 2025
+  type: "preprint"
+  journal: "RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-seq 2025)"
+  url: "https://www.biorxiv.org/content/10.1101/2025.03.19.644241v2.abstract"
+
+- title: "Anomaly Detection in Spatial Transcriptomics via Spatially Localized Density Comparison"
+  authors_array: ["Gary Hu", "Julian Gold", "Uthsav Chitra", "Sunay Joshi", "Benjamin J. Raphael"]
+  underline_authors: ["Uthsav Chitra"]
+  year: 2025
+  type: "refereed"
+  journal: "Bioinformatics / ISMB 2025, to appear"
+
+- title: "GASTON-Mix: a unified model of spatial gradients and domains using spatial mixture-of-experts"
+  authors_array: ["Uthsav Chitra", "Shu Dan", "Fenna Krienen", "Benjamin J. Raphael"]
+  underline_authors: ["Uthsav Chitra"]
+  year: 2025
+  type: "refereed"
+  journal: "Bioinformatics / ISMB 2025, to appear"
+  url: "https://www.biorxiv.org/content/10.1101/2025.01.31.635955v1"
+
+- title: "A latent variable model for evaluating mutual exclusivity between driver mutations in cancer"
+  authors_array: ["Ahmed Shuaibi*", "Uthsav Chitra*", "Benjamin J. Raphael"]
+  underline_authors: ["Ahmed Shuaibi*"]
+  year: 2024
+  type: "refereed"
+  journal: "RECOMB Satellite Workshop on Computational Cancer Biology (RECOMB-CCB 2024)"
+  note: "Best Paper Award"
+  url: "https://www.biorxiv.org/content/10.1101/2024.04.24.590995v1"
+
+- title: "Mapping the topography of spatial gene expression with interpretable deep learning"
+  authors_array: ["Uthsav Chitra", "Brian J. Arnold", "Hirak Sarkar", "Kohei Sanno", "Cong Ma", "Sereno Lopez-Darwin", "Benjamin J. Raphael"]
+  underline_authors: ["Kohei Sanno"]
+  year: 2025
+  type: "refereed"
+  journal: "Nature Methods / RECOMB 2024"
+  url: "https://www.nature.com/articles/s41592-024-02503-3"
+  slides: "/presentations/gaston_recomb2024_pres.pdf"
+  talk: "https://youtu.be/y747azUJOnI?t=2060"
+
+- title: "Resolving discrepancies between chimeric and multiplicative measures of higher-order epistasis"
+  authors_array: ["Uthsav Chitra*", "Brian J. Arnold*", "Benjamin J. Raphael"]
+  year: 2025
+  type: "refereed"
+  journal: "Nature Communications"
+  url: "https://www.nature.com/articles/s41467-025-56986-5"
+
+- title: "A count-based model for delineating cell-cell interactions in spatial transcriptomics data"
+  authors_array: ["Hirak Sarkar*", "Uthsav Chitra*", "Julian Gold", "Benjamin J. Raphael"]
+  year: 2024
+  type: "refereed"
+  journal: "Bioinformatics / ISMB 2024"
+  url: "https://academic.oup.com/bioinformatics/article/40/Supplement_1/i481/7700859"
+
+- title: "Belayer: Modeling discrete and continuous spatial variation in gene expression from spatially resolved transcriptomics"
+  authors_array: ["Cong Ma*", "Uthsav Chitra*", "Shirley Zhang", "Benjamin J. Raphael"]
+  underline_authors: ["Shirley Zhang"]
+  year: 2022
+  type: "refereed"
+  journal: "Cell Systems / RECOMB 2022"
+  url: "https://www.sciencedirect.com/science/article/pii/S2405471222003544"
+
+- title: "NetMix2: Unifying network propagation and altered subnetworks"
+  authors_array: ["Uthsav Chitra*", "Tae Yoon Park*", "Benjamin J. Raphael"]
+  year: 2022
+  type: "refereed"
+  journal: "Journal of Computational Biology / RECOMB 2022"
+  url: "https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0336"
+  slides: "/presentations/netmix2_recomb2022_pres.pdf"
+
+- title: "Quantifying and Reducing Bias in Maximum Likelihood Estimation of Structured Anomalies"
+  authors_array: ["Uthsav Chitra", "Kimberly Ding", "Jasper C. H. Lee", "Benjamin J. Raphael"]
+  underline_authors: ["Kimberly Ding"]
+  year: 2021
+  type: "refereed"
+  journal: "International Conference on Machine Learning (ICML 2021)"
+  url: "https://proceedings.mlr.press/v139/chitra21a.html"
+  slides: "/presentations/ICML_2021_pres.pdf"
+  talk: "https://slideslive.com/38958812/quantifying-and-reducing-bias-in-maximum-likelihood-estimation-of-structured-anomalies?ref=speaker-17429-latest"
+
+- title: "NetMix: A network-structured mixture model for reducing bias in the identification of altered subnetworks"
+  authors_array: ["Matthew A. Reyna*", "Uthsav Chitra*", "Rebecca Elyanow", "Benjamin J. Raphael"]
+  year: 2021
+  type: "refereed"
+  journal: "Journal of Computational Biology / RECOMB 2020"
+  url: "https://www.liebertpub.com/doi/full/10.1089/cmb.2020.0435"
+  slides: "/presentations/recomb2020_pres.pdf"
+
+- title: "Analyzing the Impact of Filter Bubbles on Social Network Polarization"
+  authors_array: ["Uthsav Chitra", "Christopher Musco"]
+  year: 2020
+  type: "refereed"
+  journal: "ACM Conference on Web Search and Data Mining (WSDM 2020)"
+  url: "https://dl.acm.org/doi/10.1145/3336191.3371825"
+  note: "Preliminary version presented at KDD WISDOM 2019 workshop"
+  slides: "/presentations/kdd_presentation.pdf"
+
+- title: "Random Walks on Hypergraphs with Edge-Dependent Vertex Weights"
+  authors_array: ["Uthsav Chitra", "Benjamin J. Raphael"]
+  year: 2019
+  type: "refereed"
+  journal: "International Conference on Machine Learning (ICML 2019)"
+  url: "https://proceedings.mlr.press/v97/chitra19a.html"
+  slides: "https://icml.cc/media/Slides/icml/2019/101(13-11-00)-13-12-15-5196-random_walks_on.pdf"
+  talk: "https://slideslive.com/38917909/optimization-and-graphical-models"
+  note: "Talk @ 55:27"
+
+- title: "Committee Selection is More Similar Than You Think: Evidence from Avalanche and Stellar"
+  authors_array: ["Tarun Chitra", "Uthsav Chitra"]
+  year: 2019
+  type: "refereed"
+  journal: "Manuscript"
+  url: "https://arxiv.org/abs/1904.09839"
+
+# Add more publications following the same format
+# Example:
+# - title: "Another Paper Title"
+#   authors: "Chitra, Author2"
+#   year: 2023
+#   type: "refereed"
+#   journal: "Conference Name"
+#   software: "Tool Name"
+#   note: "Best Paper Award" 

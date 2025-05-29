@@ -1,67 +1,46 @@
 ---
-title: Join the Pimentel Lab
+title: Join the Chitra Lab
 layout: default
 group: join
 ---
 
-### Graduate students
+# Interested in joining?
 
 ----------------------
 
-Graduate students in our lab will be on collaborative teams with the goal of building generalizable software to solve complex problems in genomics.
-The goal and expectation is for each student to graduate with expertise in modeling and data analysis as well as expertise in an area of functional genomics.
+I am actively recruiting motivated students with strong mathematical ability and/or coding skills. Research experience in biology is not necessary, but one should be willing to learn new biological concepts as required.
+ 
+## PhD and Master's students
 
-We take UCLA students from [Biomathematics](https://compmed.ucla.edu/biomathematics-graduate-programs), [Bioinformatics](https://bioinformatics.ucla.edu/), [Genetics and Genomics](https://bioscience.ucla.edu/home-areas/genetics-genomics/), [Computer Science](https://www.cs.ucla.edu/), and related programs.
+*Current JHU PhD and Master's students.* If you are a current or incoming PhD or Master's student at JHU in CS, BME, AMS, or a related department, I would be very happy to talk about potential opportunities in the lab. Please reach out to me via [email](uthsav@jhu.edu) with:
+* a brief description of who you are and your research interests,
+* your CV, and
+* any other relevant information (e.g. past projects, coursework/transcripts, etc).
 
-The students we expect will thrive in our lab come from diverse backgrounds but are not limited to:
+This information will allow me to assess your fit in the lab and suggest potential research projects. If there is a good fit, then I will schedule a time to meet.
 
-- students coming in with strong quantitative backgrounds interested in building models and software.
-- students coming in with mixed backgrounds (e.g. quantitative biology) interested in analyzing complicated data sets with specific biological questions in mind.
-- experimental students who are primarily advised by another principal investigator, but want a computational component in their dissertation.
+*Prospective PhD and Master's students.* I recruit students through the JHU [Computer Science PhD program](https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-program-admissions/) and [Master of Science in Engineering in Computer Science](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/). Please consult the program websites for further details and mention me (**Uthsav Chitra**) in your application. Please note that I am highly unlikely to respond to emails from prospective students who have not yet been admitted.
 
-**If you think you might be a good fit** and are already at UCLA, please send Harold an email with your CV and research interests.
 
-### Postdoctoral researchers
+## Postdoctoral researchers
 
-----------------------
+If you are interested in joining the lab as a post-doc, I would be very happy to talk. Please reach out to me via [email](uthsav@jhu.edu) with your CV, a brief description of your research interests and past work, and contact information for 1-3 references. Prospective applicants are also encouraged to apply to the [DSAI postdoctoral fellowship](https://ai.jhu.edu/careers/postdoctoral-fellowship-program/).
 
-We currently have a position open jointly with Bogdan Pasaniuc. The job ad is [here](https://pimentellab.com/files/pimentel_pasaniuc_postdoc.pdf).
+## JHU undergraduate students
 
-<!--
-> We have funding for and plan to take one postdoctoral researcher starting as early as January 2021.
-> If you plan to be primarily advised by us, we expect candidates to have a track record of software development, computational modeling, and data analysis.
-//-->
+I am quite happy to work with motivated and curious JHU undergraduate students. If you are interested, please reach out to me via [email](uthsav@jhu.edu) with the following information:
+* your year and major,
+* your transcript with classes that you have taken or are taking in computer science, applied math, statistics, computational biology, etc.,
+* any prior research experience and the supervising faculty member,
+* your expected time commitment (hours per week),
+* a brief description of why you are interested in the lab and your long-term goals,
+* when you would like to work (e.g. summer, during semester), and
+* any other relevant information (e.g. website).
 
-We are also open to co-advising postdoctoral researchers with other computational or experimental labs.
-An example might be an experimental postdoc with their own biological question for which there are no current analysis tools.
+This information will allow me to assess your fit in the lab and help match you to a relevant research project. If there is a good fit, then I will schedule a time to meet.
 
-If interested, please send the following to Harold:
+I require a **substantial time commitment from undergraduates** in my lab, so please only reach out if you truly have the time and motivation. Many of the undergraduate students I have mentored have won research awards (thesis prize, NSF GRFP, MIT poster award) and have published papers in top venues (e.g. [ICML 2021](https://arxiv.org/abs/2007.07878), [RECOMB 2022/Cell Systems 2022](https://www.biorxiv.org/content/10.1101/2022.02.05.479261v1), [RECOMB 2024/Nature Methods 2025](https://www.nature.com/articles/s41592-024-02503-3)).
 
-- a short research statement on your goals
-- your CV
-- contact information for three references
+## Others (e.g. visiting students, summer interns)
 
-### Undergraduate students
-
-----------------------
-
-Unfortunately we are currently at capacity for undergrads.
-However, if you think that you might want to do some work in the lab in the future, please reach out so we can discuss.
-
-[comment]: <> (We plan to take undergraduate students who have at least some programming experience.)
-[comment]: <> (Given the short nature of undergraduate research, most undergraduates in our group will likely be working on genomic data modeling and software of existing experimental protocols.)
-[comment]: <> (However, there are always exceptions.)
-[comment]: <> (If this sounds appealing, please email Harold your CV and a list of relevant courses you've taken.)
-
-### Summer undergraduate students
-
-----------------------
-
-UCLA sponsors [B.I.G. Summer](https://qcb.ucla.edu/big-summer/) every year, a 8-week paid summer research internship.
-Please [click here](https://qcb.ucla.edu/big-summer/) for more information.
-
-### Research assistants / other
-
-----------------------
-
-We don't have immediate plans to hire in other areas but if you think you are an exceptional fit, please email Harold your CV along with a short description of what you hope to accomplish by joining the lab.
+I may be able to host interns or visiting students on an *ad hoc* basis. If you are motivated and have strong interests or past experience in computational biology or machine learning, please reach out to me via [email](uthsav@jhu.edu) with your CV, a brief description of your research interests, and why you specifically want to join our lab.

@@ -1,15 +1,18 @@
 ---
-title: Pimentel Lab @ UCLA
+title: Chitra Lab at Johns Hopkins University
 layout: home
 group: home
 ---
 
-# Welcome to the Pimentel Lab!
+# Welcome to the Chitra Lab!
 {: .display-5}
 <br>
 
-We aim to understand gene regulation by building broadly applicable computational tools to analyze high-throughput genomic assays. This approach works by carefully investigating the experimental design and developing data-driven models using computer science and high-dimensional statistics to advance biomedical discovery.
 {: .welcomefont}
+We are a <b>computational biology</b> research group in the [Department of Computer Science](https://www.cs.jhu.edu/) and the [Data Science and AI Institute](https://ai.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/).
 
-Our lab is affiliated with the Departments of [Computational Medicine](https://compmed.ucla.edu/) and [Human Genetics](https://medschool.ucla.edu/departments/basic-science/human-genetics) in the [David Geffen School of Medicine](https://medschool.ucla.edu/) at [UCLA](https://www.ucla.edu/).
 {: .welcomefont}
+We develop rigorous <b>machine learning</b> algorithms and <b>statistical</b> methodologies for the analysis and interpretation of high-dimensional and multi-modal biological data.
+
+{: .welcomefont}
+Research interests include spatiotemporal machine learning, biological network analysis, and anomaly detection.
