@@ -12,10 +12,10 @@ I am actively recruiting motivated students with strong mathematical ability and
  
 ## PhD and Master's students
 
-*Current JHU PhD and Master's students.* If you are a current or incoming PhD or Master's student at JHU in CS, BME, AMS, or a related department, I would be very happy to talk about potential opportunities in the lab. Please reach out to me via [email](uthsav@jhu.edu) with:
-* a brief description of who you are and your research interests,
+*Current JHU PhD and Master's students.* If you are a current or incoming PhD or Master's student at JHU in CS, BME, AMS, or a related department, I would be very happy to talk about potential opportunities in the lab. Please reach out to me via [email (uthsav@jhu.edu)](uthsav@jhu.edu) with:
+* a brief description of who you are, your research interests, and your past research experiences,
 * your CV, and
-* any other relevant information (e.g. past projects, coursework/transcripts, etc).
+* any other relevant information (e.g. past projects, coursework, etc).
 
 This information will allow me to assess your fit in the lab and suggest potential research projects. If there is a good fit, then I will schedule a time to meet.
 
@@ -24,18 +24,17 @@ This information will allow me to assess your fit in the lab and suggest potenti
 
 ## Postdoctoral researchers
 
-If you are interested in joining the lab as a post-doc, I would be very happy to talk. Please reach out to me via [email](uthsav@jhu.edu) with your CV, a brief description of your research interests and past work, and contact information for 1-3 references. Prospective applicants are also encouraged to apply to the [DSAI postdoctoral fellowship](https://ai.jhu.edu/careers/postdoctoral-fellowship-program/).
+If you are interested in joining the lab as a post-doc, I would be very happy to talk. Please reach out to me via [email (uthsav@jhu.edu)](uthsav@jhu.edu) with your CV, a brief description of your research interests and past work, and contact information for 1-3 references. Prospective applicants are also encouraged to apply to the [DSAI postdoctoral fellowship](https://ai.jhu.edu/careers/postdoctoral-fellowship-program/).
 
 ## JHU undergraduate students
 
-I am quite happy to work with motivated and curious JHU undergraduate students. If you are interested, please reach out to me via [email](uthsav@jhu.edu) with the following information:
-* your year and major,
-* your transcript with classes that you have taken or are taking in computer science, applied math, statistics, computational biology, etc.,
-* any prior research experience and the supervising faculty member,
-* your expected time commitment (hours per week),
-* a brief description of why you are interested in the lab and your long-term goals,
-* when you would like to work (e.g. summer, during semester), and
-* any other relevant information (e.g. website).
+I am quite happy to work with motivated and curious JHU undergraduate students. If you are interested, please reach out to me via [email (uthsav@jhu.edu)](uthsav@jhu.edu) with the following information:
+* a brief description of who you are (e.g. year and major) and why you are interested in the lab,
+* a list of classes that you have taken or are taking in computer science, applied math, statistics, computational biology, or other related fields,
+* your expected time commitment (hours per week) and when you would like to work (e.g. summer, during semester),
+* any prior research experiences and the supervising faculty member(s)
+    * Note that this is **optional**, as I do not expect undergraduates to have previous research experience
+* any other relevant information (e.g. course projects, website).
 
 This information will allow me to assess your fit in the lab and help match you to a relevant research project. If there is a good fit, then I will schedule a time to meet.
 
@@ -43,4 +42,4 @@ I require a **substantial time commitment from undergraduates** in my lab, so pl
 
 ## Others (e.g. visiting students, summer interns)
 
-I may be able to host interns or visiting students on an *ad hoc* basis. If you are motivated and have strong interests or past experience in computational biology or machine learning, please reach out to me via [email](uthsav@jhu.edu) with your CV, a brief description of your research interests, and why you specifically want to join our lab.
+I may be able to host interns or visiting students on an *ad hoc* basis. If you are motivated and have strong interests or past experience in computational biology or machine learning, please reach out to me via [email (uthsav@jhu.edu)](uthsav@jhu.edu) with your CV, a brief description of your research interests, and why you specifically want to join our lab. (If you are an undergraduate, please also include the information requested in the previous section.)
