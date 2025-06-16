@@ -6,10 +6,10 @@ category: alumni_list
 
 ##### Students mentored at Princeton and Broad
 
-- Claire Wu (2024-2025), MIT undergraduate _(won MIT BioE best poster prize)_
+- Claire Wu (2024-present), MIT undergraduate _(won MIT BioE best poster prize)_
 - [Kohei Sanno](https://scholar.google.com/citations?user=27vzjdIAAAAJ&hl=en) (2023-2024), Princeton CS undergraduate 
     - Next position: UC Berkeley PhD student
-- Clover Zheng (2023-2025), Princeton CS PhD student
+- Clover Zheng (2023-present), Princeton CS PhD student
 - [Sunay Joshi](https://www.linkedin.com/in/sunay-joshi/) (2022-2024), Princeton math undergraduate 
     - Next position: UPenn Applied Math PhD student
 - [Ahmed Shuaibi](https://www.linkedin.com/in/ahmed-shuaibi/)  (2020-2025), Princeton QCB PhD student

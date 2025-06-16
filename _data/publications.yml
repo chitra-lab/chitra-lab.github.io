@@ -4,6 +4,7 @@
   year: 2024
   type: "preprint"
   journal: "In review"
+  url: "https://www.biorxiv.org/content/10.1101/2025.06.02.657306v1"
 
 - title: "Decoding the causal drivers of spatial cellular topology"
   authors_array: ["Prannav Shankar", "Huan Liang", "Uthsav Chitra†", "Rohit Singh†"]

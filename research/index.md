@@ -7,9 +7,9 @@ group: research
 # Research
 We develop the next generation of machine learning (ML) methods for addressing fundamental problems in biology. 
 
-Our major motivation is the rapid development of new biological technologies -- including single-cell/spatial sequencing and CRISPR -- which measure diverse molecular modalities at unprecedented throughput and resolution. ML methods are essential for analyzing and interpreting these large, high-dimensional, and multi-modal biological datasets. However, **standard "off-the-shelf" ML methods are severely challenged by the high noise, sparsity, heterogeneity, and other limitations of modern technologies**. 
+Our major motivation is the rapid development of new biological technologies -- including single-cell/spatial sequencing and CRISPR -- which measure diverse molecular modalities at unprecedented throughput and resolution. ML methods are essential for analyzing and interpreting these large, high-dimensional, and multi-modal biological datasets. However, **standard "off-the-shelf" ML methods are severely challenged by the high noise, sparsity, heterogeneity, and other limitations of modern biological technologies**. 
 
-We address these challenges by **developing ML methods that can extract meaningful biological insights from noisy biomedical data**. Our research involes developing both new **mathematical theory** and **practical algorithms**, depending on the problem domain. We draw on techniques from many different disciplines including deep learning, graph theory, statistical inference, and complex analysis. 
+We address these challenges by **developing ML methods that can extract meaningful biological insights from noisy biomedical data**. Our research involes developing both new **mathematical theory** and **practical algorithms**. We draw on techniques from many different disciplines including deep learning, graph theory, statistical inference, and pure mathematics (e.g. complex analysis). 
 
 -------------------
 

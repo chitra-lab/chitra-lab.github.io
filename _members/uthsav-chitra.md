@@ -12,6 +12,6 @@ at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/).
 I received my PhD in Computer Science from [Princeton University](https://www.cs.princeton.edu/) 
 where I was fortunate to be advised by [Ben Raphael](https://www.cs.princeton.edu/~braphael/).
 
-My research focuses on developing computational methods for addressing fundamental problems in biology. I am particularly excited about developing spatiotemporal and graph-based ML algorithms for new biological technologies.
+My research focuses on developing computational methods for addressing fundamental problems in biology. I am particularly excited about developing spatiotemporal and graph-based ML algorithms for new biological technologies including spatial transcriptomics and CRISPR.
 
 [Google Scholar](https://scholar.google.com/citations?user=JPKTNnMAAAAJ&hl=en&oi=ao), [CV](/static/cv/cv_website.pdf), [Personal Website](https://uthsavc.github.io/)
