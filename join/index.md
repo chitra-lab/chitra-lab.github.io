@@ -37,7 +37,10 @@ I recruit students through the JHU [Computer Science PhD program](https://www.cs
 Please note that I generally do not meet with students prior to the admission process, and it is not necessary to email me in advance before you apply. After reading your application, if I think there is a potentially good fit, I will reach out to schedule an interview. If you decide to send me an email regardless, please use the exact subject line *“Interested in a PhD [Code Word: Movement]”* to demonstrate that you’ve reviewed my webpage before reaching out.
 
 
-##### Research interns, summer students, etc
-Due to the recent JHU hiring freeze, I am largely unable to work with undergraduates/interns from other institutions, or high-school students, at this time. **I am unlikely to respond to unsolicited requests for research internships if we do not have a prior connection.**
+##### Other positions (research interns, summer students, etc.)
+Due to the recent JHU hiring freeze, I am largely unable to work with undergraduates/interns from other institutions, or high-school students, at this time. 
+**I am unlikely to respond to unsolicited requests for research internships, "post-bac" positions, or other similar roles.**
+If you decide to send me an email regardless, please use the exact subject line *“Interested in an internship [Code Word: Movement]”* to demonstrate that you’ve reviewed my webpage before reaching out.
+
 
 
