@@ -1,11 +1,9 @@
 ---
-name: Nerissa (Thu Nga) Vu (she,her)
-title: Chemical and Biomolecular Engineering PhD student
+name: Nerissa (Thu Nga) Vu
+title: PhD student
 image: /static/img/members/headshot_neri.jpeg
 order: 2
-category: join
+category: member
 ---
 
-- BS, Chemical Engineering, Bucknell University
-- Co-advised by Uthsav Chitra and Sangkyun Cho in Chemical and Biomolecular Engineering department
-- Email: tvu30@jh.edu
+Neri (she/her) is a PhD student in the Department of Chemical and Biomolecular Engineering co-advised by Uthsav Chitra and Sangkyun Cho. Neri previously earned a BS in Chemical Engineering from Bucknell University. Her email is [tvu30@jh.edu](tvu30@jh.edu).

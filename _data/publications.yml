@@ -1,17 +1,25 @@
-- title: "Spatial metabolic gradients in the liver and small intestine"
-  authors_array: ["Laith Samarah", "Clover Zheng", "...", "Uthsav Chitra", "...", "Benjamin J. Raphael", "Joshua Rabinowitz"]
-  underline_authors: ["Clover Zheng"]
-  year: 2024
+- title: "Mapping spatial gradients in spatial transcriptomics data with score matching"
+  authors_array: ["An Wang", "Donald Geman", "Uthsav Chitra†", "Laurent Younes†"]
+  underline_authors: ["An Wang", "Uthsav Chitra†"]
+  year: 2025
   type: "preprint"
-  journal: "In review"
-  url: "https://www.biorxiv.org/content/10.1101/2025.06.02.657306v1"
+  journal: "preprint"
+  url: "https://www.biorxiv.org/content/10.1101/2025.11.24.690257v1.abstract"
+
+- title: "Spatial metabolic gradients in the liver and small intestine"
+  authors_array: ["Laith Z. Samarah", "Clover Zheng", "Xi Xing", "Won Dong Lee", "Amichay Afriat", "Uthsav Chitra", "Michael R. MacArthur", "Wenyun Lu", "Connor S. R. Jankowski", "Cong Ma", "Craig J. Hunter", "Michael Neinast", "Daniel R. Weilandt", "Benjamin J. Raphael", "Joshua D. Rabinowitz"]
+  underline_authors: ["Clover Zheng", "Uthsav Chitra"]
+  year: 2025
+  type: "refereed"
+  journal: "Nature"
+  url: "https://www.nature.com/articles/s41586-025-09616-5"
 
 - title: "Decoding the causal drivers of spatial cellular topology"
   authors_array: ["Prannav Shankar", "Huan Liang", "Uthsav Chitra†", "Rohit Singh†"]
   underline_authors: ["Prannav Shankar", "Uthsav Chitra†"]
   year: 2025
   type: "preprint"
-  journal: "RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-seq 2025)"
+  journal: "iScience (to appear) / RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-seq 2025)"
   url: "https://www.biorxiv.org/content/10.1101/2025.03.19.644241v2.abstract"
 
 - title: "Anomaly Detection in Spatial Transcriptomics via Spatially Localized Density Comparison"
@@ -19,15 +27,24 @@
   underline_authors: ["Uthsav Chitra"]
   year: 2025
   type: "refereed"
-  journal: "Bioinformatics / ISMB 2025, to appear"
+  journal: "Bioinformatics / ISMB 2025"
+  url: "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i493/8199368"
 
 - title: "GASTON-Mix: a unified model of spatial gradients and domains using spatial mixture-of-experts"
   authors_array: ["Uthsav Chitra", "Shu Dan", "Fenna Krienen", "Benjamin J. Raphael"]
   underline_authors: ["Uthsav Chitra"]
   year: 2025
   type: "refereed"
-  journal: "Bioinformatics / ISMB 2025, to appear"
-  url: "https://www.biorxiv.org/content/10.1101/2025.01.31.635955v1"
+  journal: "Bioinformatics / ISMB 2025"
+  url: "https://academic.oup.com/bioinformatics/article/41/Supplement_1/i523/8199348"
+
+- title: "A latent variable model for evaluating mutual exclusivity between driver mutations in cancer"
+  authors_array: ["Ahmed Shuaibi*", "Uthsav Chitra*", "Benjamin J. Raphael"]
+  underline_authors: ["Ahmed Shuaibi*"]
+  year: 2024
+  type: "preprint"
+  journal: "pre-print"
+  url: "https://www.biorxiv.org/content/10.1101/2024.04.24.590995v1"
 
 - title: "A latent variable model for evaluating mutual exclusivity between driver mutations in cancer"
   authors_array: ["Ahmed Shuaibi*", "Uthsav Chitra*", "Benjamin J. Raphael"]
