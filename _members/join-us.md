@@ -2,7 +2,7 @@
 name: You!
 title: Aspiring Scientist
 image: /static/img/members/join_us.png
-order: 2
+order: 3
 category: join
 ---
 
