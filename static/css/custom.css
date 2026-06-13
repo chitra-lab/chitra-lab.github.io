@@ -42,6 +42,27 @@
   margin-bottom: 20px;
 }
 
+.lab-navbar {
+  background-color: #fff;
+  border-bottom: 1px solid #e6edf2;
+  padding-bottom: 0.25rem;
+  padding-top: 0.25rem;
+}
+
+.lab-navbar-brand {
+  align-items: center;
+  display: inline-flex;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.navbar-lab-wordmark {
+  display: block;
+  height: 48px;
+  max-width: 68vw;
+  width: auto;
+}
+
 .nav-link {
   font-size: 1.2em !important;
 }

@@ -1,5 +1,5 @@
 ---
-title: Chitra Lab at Johns Hopkins University
+title: Chitra Lab
 layout: home
 group: home
 ---
