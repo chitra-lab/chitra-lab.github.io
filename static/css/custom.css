@@ -269,6 +269,10 @@ body {
 }
 
 /* People page styling */
+body.page-members > .container {
+    max-width: 1200px;
+}
+
 .people {
     max-width: 2000px;
     margin: 0 auto;
@@ -342,6 +346,110 @@ body {
 
 .member-info a:hover {
     text-decoration: underline;
+}
+
+.member-group {
+    margin: 2rem 0 2.5rem;
+}
+
+.member-group h3 {
+    font-size: 1.2rem;
+    margin: 0 0 1.2rem;
+    color: #333;
+    font-weight: 600;
+}
+
+.member-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 2rem 1.25rem;
+    width: 100%;
+}
+
+.member-card {
+    width: 100%;
+    max-width: 170px;
+    justify-self: center;
+    text-align: center;
+    color: inherit;
+}
+
+.member-card-link,
+.member-card-link:hover {
+    text-decoration: none;
+}
+
+.member-card > img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 1rem;
+}
+
+.member-card-name {
+    text-align: center;
+    margin-bottom: 0.35rem;
+}
+
+.member-card h4 {
+    font-size: 1rem;
+    line-height: 1.25;
+    margin: 0;
+    color: #333;
+}
+
+.member-card p {
+    font-size: 0.9rem;
+    line-height: 1.35;
+    margin: 0;
+    color: #666;
+}
+
+.member-card-note {
+    margin-top: 0.45rem;
+    font-size: 0.85rem;
+    line-height: 1.35;
+    color: #666;
+}
+
+.member-card-note p {
+    font-size: inherit;
+    line-height: inherit;
+    margin: 0;
+    color: inherit;
+}
+
+.member-card-note a {
+    color: #2774AE;
+    text-decoration: none;
+}
+
+.member-card-note a:hover {
+    text-decoration: underline;
+}
+
+.member-links {
+    display: inline-flex;
+    gap: 0.3rem;
+    margin-left: 0.3rem;
+    line-height: 1;
+    vertical-align: -0.16em;
+    white-space: nowrap;
+}
+
+.member-links a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 17px;
+}
+
+.member-links img {
+    width: auto;
+    height: 17px;
+    display: block;
 }
 
 .join-us {
@@ -445,6 +553,33 @@ body {
 }
 
 @media (max-width: 768px) {
+    .people {
+        padding: 15px;
+    }
+
+    .member-profile {
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+
+    .member-image {
+        flex: 0 0 auto;
+    }
+
+    .member-image img {
+        width: 180px;
+        height: 180px;
+    }
+
+    .member-info {
+        width: 100%;
+    }
+
+    .member-grid {
+        justify-content: center;
+    }
+
     .research-section {
         flex-direction: column;
     }

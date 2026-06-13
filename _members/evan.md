@@ -1,8 +1,8 @@
 ---
 name: Evan Li
-title: Undergraduate
+title: Undergraduate student, CS
 image: /static/img/members/Evan_headshot_cropped.JPEG
-order: 3
+order: 40
 category: member
 ---
 

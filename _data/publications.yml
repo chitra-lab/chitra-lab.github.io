@@ -17,10 +17,10 @@
 - title: "Decoding the causal drivers of spatial cellular topology"
   authors_array: ["Prannav Shankar", "Huan Liang", "Uthsav Chitra†", "Rohit Singh†"]
   underline_authors: ["Prannav Shankar", "Uthsav Chitra†"]
-  year: 2025
-  type: "preprint"
-  journal: "iScience (to appear) / RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-seq 2025)"
-  url: "https://www.biorxiv.org/content/10.1101/2025.03.19.644241v2.abstract"
+  year: 2026
+  type: "refereed"
+  journal: "iScience / RECOMB-seq 2025"
+  url: "https://www.cell.com/iscience/fulltext/S2589-0042(26)01169-7"
 
 - title: "Anomaly Detection in Spatial Transcriptomics via Spatially Localized Density Comparison"
   authors_array: ["Gary Hu", "Julian Gold", "Uthsav Chitra", "Sunay Joshi", "Benjamin J. Raphael"]
@@ -43,7 +43,7 @@
   underline_authors: ["Ahmed Shuaibi*"]
   year: 2024
   type: "preprint"
-  journal: "pre-print"
+  journal: "preprint"
   url: "https://www.biorxiv.org/content/10.1101/2024.04.24.590995v1"
 
 - title: "A latent variable model for evaluating mutual exclusivity between driver mutations in cancer"

@@ -1,0 +1,50 @@
+{% assign member = include.member %}
+{% assign image = member.image | default: "/static/img/members/join_us.png" %}
+{% if include.href %}
+<a class="member-card member-card-link" href="{{ include.href }}">
+{% else %}
+<div class="member-card">
+{% endif %}
+    <img src="{{ image }}" alt="{{ member.name }}">
+    <div class="member-card-name">
+        <h4>{{ member.name }}{% if member.github or member.website or member.linkedin %}
+        <span class="member-links">
+            {% if member.github %}
+            {% if member.github contains "://" %}
+            {% assign github_url = member.github %}
+            {% else %}
+            {% assign github_url = "https://github.com/" | append: member.github %}
+            {% endif %}
+            <a href="{{ github_url }}" aria-label="{{ member.name }} GitHub" target="_blank" rel="noopener noreferrer">
+                <img src="/static/img/logo/github_logo.svg" alt="">
+            </a>
+            {% endif %}
+            {% if member.linkedin %}
+            {% if member.linkedin contains "://" %}
+            {% assign linkedin_url = member.linkedin %}
+            {% else %}
+            {% assign linkedin_url = "https://www.linkedin.com/in/" | append: member.linkedin %}
+            {% endif %}
+            <a href="{{ linkedin_url }}" aria-label="{{ member.name }} LinkedIn" target="_blank" rel="noopener noreferrer">
+                <img src="/static/img/logo/linkedin_logo.svg" alt="">
+            </a>
+            {% endif %}
+            {% if member.website %}
+            <a href="{{ member.website }}" aria-label="{{ member.name }} website" target="_blank" rel="noopener noreferrer">
+                <img src="/static/img/logo/website_logo.svg" alt="">
+            </a>
+            {% endif %}
+        </span>
+        {% endif %}</h4>
+    </div>
+    <p>{{ member.title }}</p>
+    {% if include.show_content %}
+    <div class="member-card-note">
+        {{ member.content | markdownify }}
+    </div>
+    {% endif %}
+{% if include.href %}
+</a>
+{% else %}
+</div>
+{% endif %}

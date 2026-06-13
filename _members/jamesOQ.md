@@ -1,8 +1,8 @@
 ---
 name: James O'Quinn
-title: Postdoctoral Fellow
+title: Postdoctoral fellow
 image: /static/img/members/headshotJOQ.jpg
-order: 2
+order: 10
 category: member
 ---
 
