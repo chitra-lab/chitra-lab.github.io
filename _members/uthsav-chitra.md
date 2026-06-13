@@ -1,7 +1,7 @@
 ---
 name: Uthsav Chitra
 title: Assistant Professor of Computer Science
-image: /static/img/members/headshot5.png
+image: /static/img/members/headshot_uthsav_faculty.jpg
 order: 1
 category: pi
 ---
