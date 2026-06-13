@@ -37,7 +37,7 @@ group: members
         {% include member_card.html member=join show_content=true %}
     </div>
 
-    <hr>
+    {% include lab_fun_carousel.html %}
 
     <!-- Alumni -->
     {% assign alumni_list = site.members | where: "category", "alumni_list" | first %}

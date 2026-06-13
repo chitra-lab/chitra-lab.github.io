@@ -1,0 +1,26 @@
+<div class="lab-fun" aria-label="Lab photos">
+    <h2 class="lab-fun-heading">Group Photos</h2>
+    <div id="labFunCarousel" class="carousel slide lab-fun-carousel" data-interval="false">
+        <ol class="carousel-indicators lab-fun-indicators">
+            {% for item in site.data.lab_fun %}
+            <li data-target="#labFunCarousel" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>
+            {% endfor %}
+        </ol>
+        <div class="carousel-inner">
+            {% for item in site.data.lab_fun %}
+            <div class="carousel-item {% if forloop.first %}active{% endif %}">
+                <div class="lab-fun-image-wrap">
+                    <img class="lab-fun-image" src="{{ item.image }}" alt="{{ item.alt }}">
+                </div>
+                <p class="lab-fun-caption">{{ item.caption }}</p>
+            </div>
+            {% endfor %}
+        </div>
+        <a class="carousel-control-prev lab-fun-control" href="#labFunCarousel" role="button" data-slide="prev" aria-label="Previous lab photo">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        </a>
+        <a class="carousel-control-next lab-fun-control" href="#labFunCarousel" role="button" data-slide="next" aria-label="Next lab photo">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        </a>
+    </div>
+</div>

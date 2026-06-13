@@ -452,6 +452,64 @@ body.page-members > .container {
     display: block;
 }
 
+.lab-fun {
+    margin: 1.25rem 0 2rem;
+}
+
+.lab-fun-heading {
+    margin-bottom: 1rem;
+}
+
+.lab-fun-carousel {
+    max-width: 920px;
+    margin: 0 auto;
+}
+
+.lab-fun-image-wrap {
+    height: 460px;
+    background-color: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.lab-fun-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
+
+.lab-fun-caption {
+    margin: 0.7rem 0 2.1rem;
+    text-align: center;
+    font-size: 0.95rem;
+    color: #555;
+}
+
+.lab-fun-indicators {
+    bottom: 1.1rem;
+    margin-bottom: 0;
+}
+
+.lab-fun-indicators li {
+    background-color: #2774AE;
+}
+
+.lab-fun-control {
+    width: 12%;
+}
+
+.lab-fun-control .carousel-control-prev-icon,
+.lab-fun-control .carousel-control-next-icon {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.45);
+    background-size: 50% 50%;
+}
+
 .join-us {
     background-color: #f8f9fa;
     padding: 2rem;
@@ -578,6 +636,10 @@ body.page-members > .container {
 
     .member-grid {
         justify-content: center;
+    }
+
+    .lab-fun-image-wrap {
+        height: 300px;
     }
 
     .research-section {
